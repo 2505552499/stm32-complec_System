@@ -1,0 +1,15 @@
+display.o: ..\HAEDWARE\display\display.c
+display.o: ..\HAEDWARE\display\display.h
+display.o: ..\SYSTEM\sys\sys.h
+display.o: ..\SYSTEM\sys\stm32f10x_map.h
+display.o: ..\SYSTEM\sys\stm32f10x_conf.h
+display.o: ..\SYSTEM\sys\stm32f10x_type.h
+display.o: ..\SYSTEM\sys\cortexm3_macro.h
+display.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+display.o: ..\HAEDWARE\led\led.h
+display.o: ..\SYSTEM\delay\delay.h
+display.o: ..\HAEDWARE\exti\exti.h
+display.o: ..\HAEDWARE\KEY\key.h
+display.o: ..\HAEDWARE\exti\exti.h
+display.o: ..\HAEDWARE\timer\timer.h
+display.o: ..\HAEDWARE\adc\adc.h

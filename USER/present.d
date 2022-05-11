@@ -1,0 +1,11 @@
+present.o: ..\HAEDWARE\present\present.c
+present.o: ..\HAEDWARE\KEY\key.h
+present.o: ..\SYSTEM\sys\sys.h
+present.o: ..\SYSTEM\sys\stm32f10x_map.h
+present.o: ..\SYSTEM\sys\stm32f10x_conf.h
+present.o: ..\SYSTEM\sys\stm32f10x_type.h
+present.o: ..\SYSTEM\sys\cortexm3_macro.h
+present.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+present.o: ..\SYSTEM\delay\delay.h
+present.o: ..\HAEDWARE\exti\exti.h
+present.o: ..\HAEDWARE\led\led.h

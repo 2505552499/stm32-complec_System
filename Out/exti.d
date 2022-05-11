@@ -1,0 +1,15 @@
+..\Out\exti.o: ..\HAEDWARE\exti\exti.c
+..\Out\exti.o: ..\HAEDWARE\exti\exti.h
+..\Out\exti.o: ..\SYSTEM\sys\sys.h
+..\Out\exti.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\Out\exti.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\Out\exti.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\Out\exti.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\Out\exti.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\Out\exti.o: ..\HAEDWARE\led\led.h
+..\Out\exti.o: ..\HAEDWARE\KEY\key.h
+..\Out\exti.o: ..\SYSTEM\delay\delay.h
+..\Out\exti.o: ..\HAEDWARE\adc\adc.h
+..\Out\exti.o: ..\HAEDWARE\timer\timer.h
+..\Out\exti.o: ..\HAEDWARE\rtc\rtc.h
+..\Out\exti.o: ..\HAEDWARE\exti\exti.h

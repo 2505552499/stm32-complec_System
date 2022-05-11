@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\out\stm32f10x.o" "..\out\main.o" "..\out\adc.o" "..\out\exti.o" "..\out\key.o" "..\out\led.o" "..\out\timer.o" "..\out\display.o" "..\out\buzzer.o" "..\out\reverse.o" "..\out\rtc.o" "..\out\delay.o" "..\out\sys.o" "..\out\usart.o" --strict --scatter "..\Out\project.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\project.map" -o "..\Out\project.axf"
